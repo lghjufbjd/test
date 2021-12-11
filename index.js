@@ -10,5 +10,7 @@ app.get('/Exploit.class', function (req, res) {
 		else {
 			console.log("Sent file!")
 		} 
+	}
+		     
 app.listen(80) 
 
